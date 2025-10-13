@@ -4,7 +4,7 @@ layout: homepage
 
 ## About Me 
 
-I come form FUXI AI Lab
+I come form SDJZU and FUXI AI Lab
 
 <span style="color:#FF6666">Currently seeking Master's or Ph.D. opportunities starting in Fall 2027.</span>  
 
